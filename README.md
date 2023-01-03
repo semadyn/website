@@ -1,2 +1,2 @@
-# website
-semadyn.com website
+# The Semadyn website
+semadyn.com
